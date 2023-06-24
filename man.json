@@ -1,0 +1,7 @@
+{
+  "posts":[
+    {"id":"a", "title":"atitle"},
+    {"id":"b", "title":"btitle"},
+    {"id":"c", "title":"ctitle"}
+  ]
+}
